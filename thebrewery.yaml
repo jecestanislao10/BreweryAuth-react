@@ -1,0 +1,4 @@
+name: BreweryAuth
+description: 'front end for brewery-auth api'
+framework: Malt.js
+template: react-boilerplate
