@@ -40,8 +40,8 @@ export function Login({ onSubmit, credentials, loginFailed, loading }) {
       </Helmet>
       <h1>WELCOME TO BREWERY-AUTH</h1>
       <LoginForm credentials={credentials} onSubmit={onSubmit} />
-      <p>{loadingStatus}</p>
-      <p>{loginStatus}</p>
+      <p>{loadingStatus}{loginStatus}</p>
+      <a href='/signup'>Don't have an account? Signup.</a>
     </div>
   );
 }
