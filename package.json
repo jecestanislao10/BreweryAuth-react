@@ -4,7 +4,7 @@
   "description": "front end for brewery-auth api",
   "repository": {
     "type": "git",
-    "url": "git://github.com/react-boilerplate/react-boilerplate.git"
+    "url": "https://github.com/jecestanislao10/BreweryAuth-react.git"
   },
   "engines": {
     "npm": ">=5",
